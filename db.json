@@ -1,4 +1,4 @@
-[
+{ "Products":[
   {
     "id": 1,
     "stock": 5,
@@ -163,4 +163,5 @@
     "Care": "Outdoor light: Part sun, 4 to 6 hours daily. Temperature: Indoor temperatures of 65 to 70 degrees F are ideal. Avoid placing poinsettias where the temperature fluctuates or may be drying, such as near cold drafts, heat ducts, fireplaces, fans, space heaters, etc",
     "productLink": "poinsettia-plant"
   }
-]
+] 
+}
